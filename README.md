@@ -1,4 +1,4 @@
-# LJM_Minecraft_portpolio.github.io
+# 마인크래프트 소개 모바일 웹
 
 마인크래프트 관련 포폴
 > [포폴소개서1](https://ljmroqortk.github.io/LJM_Minecraft_portpolio.github.io/)
